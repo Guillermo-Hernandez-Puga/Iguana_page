@@ -1,0 +1,200 @@
+body {
+   
+margin: 0px;
+
+    }
+    /*titulo Igunas */
+    .header{
+        font-family: 'Raleway';
+        font-size: 300;
+         top: 0px;
+        left: 0px;
+        width: 1280px;
+        height: 73px;
+        justify-content: center;
+        color: #FFFFFF;
+        background: #000000 0% 0% no-repeat padding-box;
+        display: flex;
+        opacity: 1  
+        
+    }
+      /*Imagen completa*/
+    .imagen{
+        /*top: 73px;
+        left: 0px;*/
+        width: 1280px;
+        height: 727px;
+        background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat padding-box;
+        opacity: 1;
+        display: flex;
+        justify-content: center;
+      
+    }
+    .article{
+      
+      top: 800px;
+      left: 0px;
+      width:1280px;
+      height: 348px;
+      background: #000000 0% 0% no-repeat padding-box;
+      display: flex;
+      opacity: 1;
+      gap: 106px;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content:center
+    
+      
+     
+
+    }
+  
+    .texto{
+      font-family: 'Raleway';
+      top: 876px;
+      left: 150px;
+      width: 475px;
+      height: 197px;
+      text-align: left;
+      font: normal normal 300 16px/19px Raleway;
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      opacity: 1;
+    }
+
+    .imagen2{
+        top: 845px;
+        left: 731px;
+        width: 399px;
+        height: 237px;
+        background: transparent url('../img/iguana-1.jpg') 0% 0% no-repeat padding-box;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+
+opacity: 1;
+
+    }
+    .fondo{
+        top: 1141px;
+        left: 0px;
+        width: 1280px;
+        height: 348px;
+        background: #1E1A13 0% 0% no-repeat padding-box;
+        opacity: 0.98;
+
+    }
+
+    
+    .flex {
+      font-family: 'Raleway', sans-serif;
+      margin-top: 0%;
+      margin-left: 0%;
+      top: 1141px;
+      left: 0px;
+      width: 1280px;
+      height: 348px;
+      background: #1E1A13 0% 0% no-repeat padding-box;
+      justify-content: center;
+            align-items: center;
+            color: #FFFFFF;
+            display: flex;
+            flex-direction: column;
+        }
+
+        
+        .flex2{
+          width: 800px;
+            top: 0px;
+            left: 0px;
+            display: flex;
+            margin-top:10%;
+            gap: 40px;
+            justify-content: center;
+            color: #FFFFFF;
+            justify-content: center;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: row;
+        }
+
+        .img{
+
+          margin:0,center;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  top: 800px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+        }
+      .im{
+        align-items: center;
+        justify-content: center;
+        
+      }
+      .im1{
+        top: 1561px;
+left: 150px;
+width: 316px;
+height: 202px;
+background: transparent url('../img/iguana-2.jpg') 0% 0% no-repeat padding-box;
+background-size: cover;
+background-position: center;
+justify-content: center;
+opacity: 1;
+      }
+
+      .im2{
+     /* Layout Properties */
+top: 1561px;
+left: 482px;
+width: 316px;
+height: 202px;
+/* UI Properties */
+background: transparent url('../img/iguana-3.jpg') 0% 0% no-repeat padding-box;
+background-size: cover;
+background-position: center;
+opacity: 1;
+      }
+
+      .im3{
+top: 1561px;
+left: 814px;
+width: 316px;
+height: 202px;
+background: transparent url('../img/iguana-4.jpg') 0% 0%  no-repeat padding-box;
+background-size: cover;
+background-position: center;
+opacity: 1;
+      }
+
+      .footer{
+        font-family: 'Raleway', sans-serif;
+        padding-top: 0%;
+        top: 1835px;
+        left: 0px;
+        width: 1280px;
+        height: 102px;
+        background: #1E1A13 0% 0% no-repeat padding-box;
+        background-position: center;
+        opacity: 0.94;
+        color: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+   
+      
